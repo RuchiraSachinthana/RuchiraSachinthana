@@ -69,7 +69,7 @@ I'm Ruchira Sachinthana  Electronics & Telecommunication UG at SLTC and  Freelan
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=RuchiraSachinthana.RuchiraSachinthana)
 
 
 
@@ -83,6 +83,7 @@ I'm Ruchira Sachinthana  Electronics & Telecommunication UG at SLTC and  Freelan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraSachinthana&layout=compact)](https://github.com/RuchiraSachinthana/github-readme-stats)
 
+ 
 
 
 
