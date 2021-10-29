@@ -62,19 +62,21 @@ I'm Ruchira Sachinthana  Electronics & Telecommunication UG at SLTC and  Freelan
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
-<br />
+
 <br />
 
 
+#### Github Stats
 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RuchiraSachinthana.RuchiraSachinthana)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2428268/screenshots/10907425/media/a92bfb2d2b2b1a40eacfdf82ddc1e583.gif"/>
+
+<br />
 
 
 
-
-#### Github Stats
 
 ![Ruchira's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuchiraSachinthana&show_icons=true&theme=radical)
 
