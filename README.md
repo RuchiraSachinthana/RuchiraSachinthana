@@ -66,6 +66,7 @@ I'm Ruchira Sachinthana  Electronics & Telecommunication UG at SLTC and  Freelan
 <br />
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif"/>
+
 #### Github Stats
 
 #### Profile Visits 
