@@ -1,6 +1,10 @@
  ## Hi I'm Ruchira <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Ruchira Sachinthana  Electronics & Telecommunication UG at SLTC and  Freelance Web Developer. 
+I'm Ruchira Sachinthana, a Freelance Web Developer. <br><br>
+I'm currently pursuing an engineering degree in Electronics and Telecommunication from Sri Lanka Technological Campus.
+
+
+I am seeking an internship or co-op in electronic , IT, or a related field where I can use the skills I am learning in my classroom and in my practical labs and use them in real world scenarios. Please contact me if you are seeking to recruit applicants for internships, co-ops, or part-time work. Also, I would appreciate if you would share my profile with anyone you know who may be seeking applicants, or to send me any leads you know about.
 
 :mailbox: Reach me out!
 
