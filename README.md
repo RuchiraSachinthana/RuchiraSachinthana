@@ -4,7 +4,7 @@ I'm Ruchira Sachinthana, a Freelance Web Developer. <br><br>
 I'm currently pursuing an engineering degree in Electronics and Telecommunication from Sri Lanka Technological Campus.
 
 
-I am seeking an internship or co-op in electronic , IT, or a related field where I can use the skills I am learning in my classroom and in my practical labs and use them in real world scenarios. Please contact me if you are seeking to recruit applicants for internships, co-ops, or part-time work. Also, I would appreciate if you would share my profile with anyone you know who may be seeking applicants, or to send me any leads you know about.
+I'm seeking an internship or co-op in electronic , IT, or a related field where I can use the skills I am learning in my classroom and in my practical labs and use them in real world scenarios. Please contact me if you are seeking to recruit applicants for internships, co-ops, or part-time work. Also, I would appreciate if you would share my profile with anyone you know who may be seeking applicants, or to send me any leads you know about.
 
 :mailbox: Reach me out!
 
