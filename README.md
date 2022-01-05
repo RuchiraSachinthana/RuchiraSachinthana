@@ -15,7 +15,7 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 - 🔭 I’m currently working at 👨‍🎓🎓
 - :computer: Most used line of code `/*comments*/`
 - 🤔 I’m looking for help with Electronics, Networking, Coding , Cloud.
-- 📫 How to reach me: 🌐 https://ruchiras.com.
+- 📫 Website: 🌐 https://ruchiras.com.
 - 😄 Pronouns: Ruchira.
 - ⚡ Fun fact: EZ CLAP 👏
 
