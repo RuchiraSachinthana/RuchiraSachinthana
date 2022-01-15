@@ -98,10 +98,21 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 
 <details>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraSachinthana&layout=compact)](https://github.com/RuchiraSachinthana/github-readme-stats)
-
+  <p align="center"> 
+   <a href="https://github.com/RuchiraSachinthana/github-readme-stats"><img alt="RuchiraSachinthana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraSachinthana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+   </a>
+  </p>
+<p align="center">
+    <a href="https://github.com/RuchiraSachinthana/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="RuchiraSachinthana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RuchiraSachinthana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
  
+ <br/>
+
+<a href="https://github.com/RuchiraSachinthana/github-readme-activity-graph"><img alt="RuchiraSachinthana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RuchiraSachinthana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
 
 
 
