@@ -20,6 +20,7 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 - 😄 Pronouns:  He/Him/His.
 - ⚡ Fun fact: EZ CLAP 👏
 <hr>
+
 ### Languages & Tools
 
 <!-- TODO: Make technologies links takes you to repositories -->
