@@ -95,7 +95,7 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 
 ![Ruchira's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuchiraSachinthana&show_icons=true&theme=radical)
 
-<More>
+<detrails>
 
   <p align="center"> 
    <a href="https://github.com/RuchiraSachinthana/github-readme-stats"><img alt="RuchiraSachinthana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraSachinthana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
@@ -115,4 +115,4 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 
 
 
-</More>
+</detrails>
