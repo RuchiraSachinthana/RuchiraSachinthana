@@ -89,7 +89,7 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 
 <br />
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif"/>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/RuchiraSachinthana/RuchiraSachinthana/img/68747470733a2f2f63646e2e647269-unscreen.gif"/>
 
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RuchiraSachinthana.RuchiraSachinthana)
