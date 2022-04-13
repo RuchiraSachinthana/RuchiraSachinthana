@@ -20,6 +20,10 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 - 😄 Pronouns:  He/Him/His.
 - ⚡ Fun fact: EZ CLAP 👏
 <hr>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ruchiras"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ruchiras" /></a></p><br><br>
+<hr>
+
 
 ### Languages & Tools:
 
