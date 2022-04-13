@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/RuchiraSachinthana/RuchiraSachinthana/blob/output/github-contribution-grid-snake.gif)
 <hr>
-I'm currently pursuing an engineering degree in Electronics and Telecommunication from Sri Lanka Technological Campus.
+I'm currently pursuing an engineering degree in Electronics and Telecommunication from Sri Lanka Technological Campus and Full-Stack software Engineering degree at JIAT.
 
 
 I'm seeking an internship or co-op in electronic , IT, or a related field where I can use the skills I am learning in my classroom and in my practical labs and use them in real world scenarios. Please contact me if you are seeking to recruit applicants for internships, co-ops, or part-time work. Also, I would appreciate if you would share my profile with anyone you know who may be seeking applicants, or to send me any leads you know about.
@@ -15,7 +15,7 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 
 - 🔭 I’m currently working at 👨‍🎓🎓
 - :computer: Most used line of code `/*comments*/`
-- 🤔 I’m looking for help with Electronics, Networking, Coding , Cloud.
+- 🤔 I’m looking for help with Electronics, Networking, Coding , ML , Cloud.
 - 📫 Website: 🌐 https://ruchiras.com.
 - 😄 Pronouns:  He/Him/His.
 - ⚡ Fun fact: EZ CLAP 👏
@@ -24,9 +24,13 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 ### Languages & Tools
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) 
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#) 
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) 
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
@@ -38,8 +42,11 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 [![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](#)
 [![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)](#)
 [![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)](#)
+[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](#)
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](#)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](#)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](#)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](#)
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
 [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](#)
@@ -52,7 +59,7 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 [](#)
 
 
-#### Skills
+#### Daily 
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
