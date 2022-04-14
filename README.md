@@ -7,11 +7,13 @@ I'm currently pursuing an engineering degree in Electronics and Telecommunicatio
 
 I'm seeking an internship or co-op in electronic , IT, or a related field where I can use the skills I am learning in my classroom and in my practical labs and use them in real world scenarios. Please contact me if you are seeking to recruit applicants for internships, co-ops, or part-time work. Also, I would appreciate if you would share my profile with anyone you know who may be seeking applicants, or to send me any leads you know about.
 
-:mailbox: Reach me out!
+<hr>
+
+### Reach me out! :mailbox:
 
 [![Twitter Badge](https://img.shields.io/badge/-@Ruchira_S_H-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ruchira_S_H)](https://twitter.com/Ruchira_S_H)  [![Linkedin Badge](https://img.shields.io/badge/-Ruchira_Sachinthana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchira-sachinthana/)  [![Mail Badge](https://img.shields.io/badge/-Ruchira_Sachinthana-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCx7-8LVCSHgjRTvFMfDlt-Q) [![Mail Badge](https://img.shields.io/badge/-@ruchira_sachinthana-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ruchira_sachinthana/) [![Mail Badge](https://img.shields.io/badge/-Ruchira_Sachinthana-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hello@ruchiras.com)
 
-
+<hr>
 
 - 🔭 I’m currently working at 👨‍🎓🎓
 - :computer: Most used line of code `/*comments*/`
