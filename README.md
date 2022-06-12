@@ -21,6 +21,15 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 - 📫 Website: 🌐 https://ruchiras.com.
 - 😄 Pronouns:  He/Him/His.
 - ⚡ Fun fact: EZ CLAP 👏
+
+<p align="center">
+<a href="https://codepen.io/ruchirasachinthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ruchirasachinthana" height="50" width="60" /></a>
+<a href="https://dev.to/ruchirasachinthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ruchirasachinthana" height="50" width="60" /></a>
+<a href="https://stackoverflow.com/users/17809633/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/17809633/ruchira-s?tab=profile" height="50" width="60" /></a>
+<a href="https://www.hackerrank.com/ruchira_sachint1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ruchira_sachint1" height="50" width="60" /></a>
+</p>
+
+
 <hr>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ruchiras"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ruchiras" /></a></p><br><br>
