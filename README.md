@@ -130,6 +130,12 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 
 <br/>
 
-
-
 </details>
+
+
+<!-- <details> 
+ <summary> 
+  Projects 
+</summary>
+</details>
+ -->
