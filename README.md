@@ -73,8 +73,7 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 
 [](#)
 
-
-#### Dev Stuffs:
+<hr>
 
 <p align="left"> 
 
@@ -92,7 +91,7 @@ I'm seeking an internship or co-op in electronic , IT, or a related field where 
 
 </p>
 
-
+<hr>
 
 <br />
 
