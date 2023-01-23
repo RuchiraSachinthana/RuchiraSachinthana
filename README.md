@@ -4,7 +4,7 @@
 <hr>
 I'm currently pursuing an engineering degree in Electronics and Telecommunication from SLTC Research University and Full-Stack Software Engineering degree at JIAT. <br> <br>
 
-As a skilled engineering student, I am eager to bring my knowledge and experience to the industry. I am well-versed in multiple programming languages, including Python, and JavaScript and have a solid understanding of MERN stack, cloud computing, UI/UX design, Git, GitHub and REST APIs. I have experience in both front-end and back-end development and have worked on several projects using these technologies. I am a proactive learner, who is always looking to improve my skills and stay current with industry trends. I am a problem solver and I am able to work well both independently and as part of a team. I am excited to join a company that values innovation and creativity and contributes to the development of cutting-edge technologies
+As a skilled engineering student, I am eager to bring my knowledge and experience to the industry. I am well-versed in multiple programming languages, including Java, Python, and JavaScript and have a solid understanding of MERN stack, cloud computing, UI/UX design, Git, GitHub and REST APIs. I have experience in both front-end and back-end development and have worked on several projects using these technologies. I am a proactive learner, who is always looking to improve my skills and stay current with industry trends. I am a problem solver and I am able to work well both independently and as part of a team. I am excited to join a company that values innovation and creativity and contributes to the development of cutting-edge technologies
 
 <hr>
 
