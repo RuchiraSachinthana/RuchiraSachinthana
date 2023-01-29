@@ -16,7 +16,7 @@ As a skilled engineering student, I am eager to bring my knowledge and experienc
 
 - 🔭 I’m currently working at 👨‍🎓🎓
 - :computer: Most used line of code `/*comments*/`
-- 🤔 I’m looking for help with Electronics, Networking, Coding , ML , Cloud.
+- 🤔 I’m looking for help with  Software Engineering, Programming, ML, Cloud, Electronics, Networking.
 - 📫 Website: 🌐 https://ruchiras.com.
 - 😄 Pronouns:  He/Him/His.
 - ⚡ Fun fact: EZ CLAP 👏
