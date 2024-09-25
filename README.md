@@ -14,7 +14,7 @@ As a skilled engineer, I am eager to bring my knowledge and experience to the in
 
 <hr>
 
-- 🔭 I’m currently working at @wemixt
+- 🔭 I’m currently working at WEMIXT
 - :computer: Most used line of code `/*comments*/`
 - 🤔 I’m looking for help with  Software Engineering, Programming, ML, Cloud, Electronics, and Networking.
 - 📫 Website: 🌐 https://ruchirasachinthana.com.
