@@ -137,6 +137,7 @@ As a skilled engineer and entrepreneur, I am the Founder & CEO of WEMIXT. I brin
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif" alt="Coding" width="300" />
+<!--     <img src="https://www.ruchirasachinthana.com/assets/img/blog/Do.gif" alt="Coding" width="300" /> -->
 </div>
 
 <div align="center">
