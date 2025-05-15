@@ -2,7 +2,7 @@ name: GitHub 3D Contribution Chart
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs at midnight daily
+    - cron: "0 0 * * *"  # runs at midnight  daily
   workflow_dispatch:
 
 jobs:
