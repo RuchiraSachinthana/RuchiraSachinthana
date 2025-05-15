@@ -37,6 +37,7 @@ As a skilled engineer and entrepreneur, I am the Founder & CEO of WEMIXT. I brin
 - :computer: Most used line of code `/*comments*/`
 - 🤔 I'm looking for help with Software Engineering, Programming, ML, Cloud, Electronics, and Networking
 - 📫 Website: 🌐 [ruchirasachinthana.com](https://ruchirasachinthana.com)
+- 🌟 Check out my GitHub in 3D: [GitHub Skyline](https://skyline.github.com/RuchiraSachinthana/2024)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: EZ CLAP 👏
 
@@ -93,6 +94,9 @@ As a skilled engineer and entrepreneur, I am the Founder & CEO of WEMIXT. I brin
 [![N8N](https://img.shields.io/badge/N8N-24292F?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Manus AI](https://img.shields.io/badge/Manus_AI-6C63FF?style=for-the-badge&logoColor=white)](https://manus.ai/)
 [![Lovable](https://img.shields.io/badge/Lovable-FF4B4B?style=for-the-badge&logoColor=white)](https://lovable.ai/)
+
+### 🔥 Popular AI Tools Added
+
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)](https://www.midjourney.com/)
 [![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-7B36ED?style=for-the-badge&logo=stablediffusion&logoColor=white)](https://stability.ai/)
@@ -145,7 +149,16 @@ As a skilled engineer and entrepreneur, I am the Founder & CEO of WEMIXT. I brin
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuchiraSachinthana&show_icons=true&theme=radical" alt="Ruchira's GitHub stats" />
+  <a href="https://github.com/RuchiraSachinthana">
+    <img src="https://github-readme-stats.vercel.app/api?username=RuchiraSachinthana&show_icons=true&theme=radical" alt="Ruchira's GitHub stats" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🏆 My GitHub Activity Graph</h3>
+  <a href="https://github.com/RuchiraSachinthana">
+    <img src="https://github-profile-3d-contrib.vercel.app/api?username=RuchiraSachinthana&theme=dark" alt="Ruchira's GitHub Activity 3D Chart" width="100%" />
+  </a>
 </div>
 
 <details>
