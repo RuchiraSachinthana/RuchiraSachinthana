@@ -1,7 +1,11 @@
 # Hi! I'm Ruchira Sachinthana <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <div align="center">
-  <img src="https://github.com/RuchiraSachinthana/RuchiraSachinthana/blob/output/github-contribution-grid-snake.svg" alt="snake contribution grid animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RuchiraSachinthana/RuchiraSachinthana/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RuchiraSachinthana/RuchiraSachinthana/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/RuchiraSachinthana/RuchiraSachinthana/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <hr>
@@ -89,6 +93,16 @@ As a skilled engineer and entrepreneur, I am the Founder & CEO of WEMIXT. I brin
 [![N8N](https://img.shields.io/badge/N8N-24292F?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Manus AI](https://img.shields.io/badge/Manus_AI-6C63FF?style=for-the-badge&logoColor=white)](https://manus.ai/)
 [![Lovable](https://img.shields.io/badge/Lovable-FF4B4B?style=for-the-badge&logoColor=white)](https://lovable.ai/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)](https://www.midjourney.com/)
+[![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-7B36ED?style=for-the-badge&logo=stablediffusion&logoColor=white)](https://stability.ai/)
+[![DALL·E](https://img.shields.io/badge/DALL·E-FF0000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/dall-e/)
+[![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-222222?style=for-the-badge&logo=perplexity&logoColor=white)](https://www.perplexity.ai/)
+[![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+[![Replicate](https://img.shields.io/badge/Replicate-212121?style=for-the-badge&logo=replicate&logoColor=white)](https://replicate.com/)
+[![Cohere](https://img.shields.io/badge/Cohere-8E2DE2?style=for-the-badge&logo=cohere&logoColor=white)](https://cohere.com/)
+[![Whisper](https://img.shields.io/badge/Whisper-1A1A1A?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/research/whisper)
 
 [![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
