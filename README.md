@@ -156,8 +156,9 @@ As a skilled engineer and entrepreneur, I am the Founder & CEO of WEMIXT. I brin
 
 <div align="center">
   <h3>🏆 My GitHub Activity Graph</h3>
-  <a href="https://github.com/RuchiraSachinthana">
-    <img src="https://github-profile-3d-contrib.vercel.app/api?username=RuchiraSachinthana&theme=dark" alt="Ruchira's GitHub Activity 3D Chart" width="100%" />
+  <a href="https://skyline.github.com/RuchiraSachinthana/2024" target="_blank">
+    <img src="https://raw.githubusercontent.com/RuchiraSachinthana/RuchiraSachinthana/0da95e41f56d2f7e9ddbc64825cbe63f1f6bea44/profile-3d-contrib/profile-night-rainbow.svg" alt="Ruchira's GitHub Activity 3D Chart" width="100%" />
+    
   </a>
 </div>
 
