@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me
 
-**Technical Founder & CEO at [WEMIXT](https://wemixt.com)** — Building the future of digital experiences.
+**Software Engineer | Technical Founder & CEO at [WEMIXT](https://wemixt.com)**
 
-I architect and ship production-grade software from concept to scale. As a full-stack engineer with deep expertise across the entire development lifecycle, I transform complex business challenges into elegant, scalable solutions.
+Engineer first, founder second. I architect and ship production-grade software from concept to scale. With deep expertise across the entire development lifecycle, I transform complex business challenges into elegant, scalable solutions — writing code daily and staying hands-on with every layer of the stack.
 
 #### 🔧 Engineering Domains
 
@@ -50,7 +50,7 @@ I architect and ship production-grade software from concept to scale. As a full-
 
 ### 🚀 Quick Facts
 
-- 🔭 **Technical Founder & CEO** at **[WEMIXT](https://wemixt.com)** — Turning ideas into scalable products
+- 🔭 **Software Engineer** & **Technical Founder** at **[WEMIXT](https://wemixt.com)** — Building and shipping code daily
 - 🏗️ **Core Stack**: MERN | Python | AWS | PostgreSQL | Redis
 - 💡 **Focus Areas**: System Architecture | API Design | Cloud Infrastructure | AI Integration
 - 🚀 **Track Record**: Multiple MVPs shipped and scaled to production
