@@ -12,7 +12,25 @@
 
 ### 👨‍💻 About Me
 
-As a skilled engineer and entrepreneur, I am the Founder & CEO of WEMIXT. I bring extensive knowledge and experience to the tech industry with expertise in multiple programming languages, including Java, Python, and JavaScript. I have a solid understanding of the MERN stack, cloud computing, UI/UX design, Git, GitHub, and REST APIs. With experience in both front-end and back-end development, I've successfully led numerous projects using these technologies and developed several Minimum Viable Products (MVPs) that scaled into successful applications. I am a proactive learner who constantly seeks to improve my skills and stay ahead of industry trends. As a natural problem solver, I excel both independently and as a team leader. I'm passionate about building innovative solutions and creating technology that makes a meaningful impact.
+**Technical Founder & CEO at [WEMIXT](https://wemixt.com)** — Building the future of digital experiences.
+
+I architect and ship production-grade software from concept to scale. As a full-stack engineer with deep expertise across the entire development lifecycle, I transform complex business challenges into elegant, scalable solutions.
+
+#### 🔧 Engineering Domains
+
+| Domain | Expertise |
+|--------|-----------|
+| **Backend Engineering** | System architecture, RESTful & GraphQL APIs, microservices, database design (SQL/NoSQL), server optimization |
+| **Frontend Development** | React ecosystems, responsive UI/UX implementation, state management, performance optimization |
+| **Cloud & DevOps** | AWS infrastructure, CI/CD pipelines, containerization, serverless architectures |
+| **AI & Automation** | LLM integrations, workflow automation, intelligent system design |
+
+#### 💡 What I Do Best
+
+- **0 → 1 Product Development**: Rapidly prototype and launch MVPs that validate market fit, then scale them into robust production systems
+- **Technical Leadership**: Lead engineering teams with a hands-on approach, establishing best practices and mentoring developers
+- **Architecture Design**: Design systems that handle growth — from hundreds to millions of users — without compromising performance
+- **Cross-functional Collaboration**: Bridge the gap between technical implementation and business strategy
 
 <hr>
 
@@ -32,14 +50,14 @@ As a skilled engineer and entrepreneur, I am the Founder & CEO of WEMIXT. I brin
 
 ### 🚀 Quick Facts
 
-- 🔭 I'm the Founder & CEO of **WEMIXT**
-- 💡 I specialize in developing MVPs and scaling them into successful products
-- :computer: Most used line of code `/*comments*/`
-- 🤔 I'm looking for help with Software Engineering, Programming, ML, Cloud, Electronics, and Networking
-- 📫 Website: 🌐 [ruchirasachinthana.com](https://ruchirasachinthana.com)
-- 🌟 Check out my GitHub in 3D: [GitHub Skyline](https://skyline.github.com/RuchiraSachinthana/2024)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: EZ CLAP 👏
+- 🔭 **Technical Founder & CEO** at **[WEMIXT](https://wemixt.com)** — Turning ideas into scalable products
+- 🏗️ **Core Stack**: MERN | Python | AWS | PostgreSQL | Redis
+- 💡 **Focus Areas**: System Architecture | API Design | Cloud Infrastructure | AI Integration
+- 🚀 **Track Record**: Multiple MVPs shipped and scaled to production
+- 🤝 **Open to**: Technical partnerships, advisory roles, and challenging engineering problems
+- 📫 **Website**: [ruchirasachinthana.com](https://ruchirasachinthana.com)
+- 🌟 **GitHub 3D**: [GitHub Skyline](https://skyline.github.com/RuchiraSachinthana/2024)
+- 😄 **Pronouns**: He/Him/His
 
 <div align="center">
   
